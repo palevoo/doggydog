@@ -1,5 +1,6 @@
 # Doggy Restaurants
-
+![filters](./publico/top.png)
+![adding new](./publico/bottom.png)
 ## Back-End
 
 Create a server with ExpressJS and a MongoDB database with the following API endpoints:
